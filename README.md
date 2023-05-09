@@ -1,3 +1,3 @@
 helloworld
 ==========
-first application on github
+first repo on github
